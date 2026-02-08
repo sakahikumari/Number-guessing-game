@@ -1,6 +1,8 @@
-#NUMBER GUESSING GAME#
+#number guessing game
 this game give you chance again when you not win . if you want again play,just type any one y(yes) and n(no).
+
 ##technology use
 .python
-#Authore
+
+##Authore
 sakshi
