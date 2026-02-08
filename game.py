@@ -20,4 +20,4 @@ while True:
     again=input("play again?(y/n):").lower()
     if again !="y" :
      print("thanks for playing")
-     
+     break
